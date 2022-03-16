@@ -15,3 +15,5 @@ console.log(numero1 / numero2) //La const no se le puede asignar
 console.log(numero1 * numero2) //La const no se le puede asignar  
 
 console.log(numero1 % numero2) //La const no se le puede asignar 
+
+console.log(numero1 = numero2) //La const no se le puede asignar 
