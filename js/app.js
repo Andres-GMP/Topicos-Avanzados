@@ -10,4 +10,5 @@
     // ?: significa PUEDES O NO PUEDES ESTAR
     console.log(producto.includes("color", 24))
     
+    
     console.log(producto.indexOf('Color'))
